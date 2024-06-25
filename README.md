@@ -1,4 +1,5 @@
-![image](https://github.com/burning23185/Travly_BE/assets/58378530/2189e20c-f936-4a61-99a8-1d6cd3764f80)![image](https://github.com/burning23185/Travly_BE/assets/58378530/921a2272-47e8-4dc3-9a2a-3e29ebb8a5e8)
+![image](https://github.com/burning23185/Travly_BE/assets/58378530/921a2272-47e8-4dc3-9a2a-3e29ebb8a5e8)
+![image](https://github.com/burning23185/Travly_BE/assets/58378530/2189e20c-f936-4a61-99a8-1d6cd3764f80)
 ![image](https://github.com/burning23185/Travly_BE/assets/58378530/964f9f2a-d551-400f-b6e6-f3784aa3fda4)
 ![image](https://github.com/burning23185/Travly_BE/assets/58378530/70bfd455-4380-450b-9c7d-031c9bef89bc)
 ![image](https://github.com/burning23185/Travly_BE/assets/58378530/9daa9af4-91ac-48b7-9ae6-da8b69a363b6)
